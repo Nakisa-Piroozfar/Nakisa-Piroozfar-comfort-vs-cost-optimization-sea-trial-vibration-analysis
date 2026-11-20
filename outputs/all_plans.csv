@@ -1,0 +1,257 @@
+plan,cost_eur,excess_mm_s,allowed,pareto,score
+Stbd: alignment · Port: alignment,3000,25.94,True,True,0.7
+"Stbd: bearings, alignment · Port: alignment",6500,22.5,True,True,0.5384
+"Stbd: bearings, alignment · Port: bearings, alignment",10000,19.96,True,True,0.4267
+"Stbd: bearings, propeller, alignment · Port: bearings, alignment",14000,17.79,True,True,0.3411
+"Stbd: bearings, propeller, alignment · Port: bearings, propeller, alignment",18000,16.35,True,True,0.2959
+"Stbd: shaft, bearings, alignment · Port: bearings, alignment",19000,16.07,True,True,0.2895
+"Stbd: shaft, bearings, propeller, alignment · Port: bearings, alignment",23000,14.8,True,True,0.2539
+"Stbd: shaft, bearings, propeller, alignment · Port: bearings, propeller, alignment",27000,14.09,True,True,0.2507
+"Stbd: shaft, bearings, propeller, alignment · Port: shaft, bearings, alignment",32000,13.66,True,True,0.2718
+"Stbd: shaft, bearings, propeller, alignment · Port: shaft, bearings, propeller, alignment",36000,13.52,True,True,0.3
+no repair,0,30.13,False,False,
+Port: alignment,1500,28.18,False,False,
+Stbd: alignment,1500,27.76,False,False,
+Port: bearings,3500,26.93,False,False,
+Stbd: bearings,3500,26.26,False,False,
+Port: propeller,4000,27.55,False,False,
+Stbd: propeller,4000,26.99,False,False,
+"Port: bearings, alignment",5000,25.16,False,False,
+Stbd: alignment · Port: bearings,5000,24.78,False,False,
+Stbd: bearings · Port: alignment,5000,24.53,False,False,
+"Stbd: bearings, alignment",5000,24.15,False,False,
+"Port: propeller, alignment",5500,25.74,False,False,
+Stbd: alignment · Port: propeller,5500,25.35,False,False,
+Stbd: propeller · Port: alignment,5500,25.23,False,False,
+"Stbd: propeller, alignment",5500,24.84,False,False,
+"Stbd: alignment · Port: bearings, alignment",6500,23.1,True,False,0.5722
+"Stbd: alignment · Port: propeller, alignment",7000,23.65,True,False,0.6077
+"Stbd: propeller, alignment · Port: alignment",7000,23.17,True,False,0.5801
+Stbd: bearings · Port: bearings,7000,23.41,False,False,
+"Port: bearings, propeller",7500,24.59,False,False,
+Stbd: propeller · Port: bearings,7500,24.09,False,False,
+Stbd: bearings · Port: propeller,7500,23.96,False,False,
+"Stbd: bearings, propeller",7500,23.47,False,False,
+Stbd: propeller · Port: propeller,8000,24.65,False,False,
+"Stbd: bearings · Port: bearings, alignment",8500,21.8,False,False,
+"Stbd: bearings, alignment · Port: bearings",8500,21.45,False,False,
+"Port: bearings, propeller, alignment",9000,22.92,False,False,
+Port: shaft,9000,25.16,False,False,
+"Stbd: alignment · Port: bearings, propeller",9000,22.56,False,False,
+"Stbd: propeller · Port: bearings, alignment",9000,22.45,False,False,
+"Stbd: propeller, alignment · Port: bearings",9000,22.09,False,False,
+"Stbd: bearings · Port: propeller, alignment",9000,22.33,False,False,
+"Stbd: bearings, alignment · Port: propeller",9000,21.97,False,False,
+"Stbd: bearings, propeller · Port: alignment",9000,21.86,False,False,
+"Stbd: bearings, propeller, alignment",9000,21.51,False,False,
+Stbd: shaft,9000,24.15,False,False,
+"Stbd: propeller · Port: propeller, alignment",9500,22.98,False,False,
+"Stbd: propeller, alignment · Port: propeller",9500,22.62,False,False,
+"Port: shaft, alignment",10500,23.47,False,False,
+"Stbd: alignment · Port: bearings, propeller, alignment",10500,21.0,True,False,0.49
+Stbd: alignment · Port: shaft,10500,23.1,False,False,
+"Stbd: propeller, alignment · Port: bearings, alignment",10500,20.56,True,False,0.4649
+"Stbd: bearings, alignment · Port: propeller, alignment",10500,20.45,True,False,0.4587
+"Stbd: bearings, propeller, alignment · Port: alignment",10500,20.01,True,False,0.4343
+Stbd: shaft · Port: alignment,10500,22.5,False,False,
+"Stbd: shaft, alignment",10500,22.15,False,False,
+"Stbd: propeller, alignment · Port: propeller, alignment",11000,21.06,True,False,0.4977
+"Stbd: bearings · Port: bearings, propeller",11000,21.28,False,False,
+"Stbd: bearings, propeller · Port: bearings",11000,20.83,False,False,
+"Stbd: propeller · Port: bearings, propeller",11500,21.92,False,False,
+"Stbd: bearings, propeller · Port: propeller",11500,21.34,False,False,
+"Stbd: alignment · Port: shaft, alignment",12000,21.51,True,False,0.5324
+"Stbd: shaft, alignment · Port: alignment",12000,20.61,True,False,0.4817
+"Port: shaft, bearings",12500,22.39,False,False,
+"Stbd: bearings · Port: bearings, propeller, alignment",12500,19.8,False,False,
+Stbd: bearings · Port: shaft,12500,21.8,False,False,
+"Stbd: bearings, alignment · Port: bearings, propeller",12500,19.48,False,False,
+"Stbd: bearings, propeller · Port: bearings, alignment",12500,19.38,False,False,
+"Stbd: bearings, propeller, alignment · Port: bearings",12500,19.07,False,False,
+Stbd: shaft · Port: bearings,12500,21.45,False,False,
+"Stbd: shaft, bearings",12500,20.89,False,False,
+"Port: shaft, propeller",13000,22.92,False,False,
+"Stbd: propeller · Port: bearings, propeller, alignment",13000,20.39,False,False,
+Stbd: propeller · Port: shaft,13000,22.45,False,False,
+"Stbd: propeller, alignment · Port: bearings, propeller",13000,20.07,False,False,
+"Stbd: bearings, propeller · Port: propeller, alignment",13000,19.85,False,False,
+"Stbd: bearings, propeller, alignment · Port: propeller",13000,19.54,False,False,
+Stbd: shaft · Port: propeller,13000,21.97,False,False,
+"Stbd: shaft, propeller",13000,21.51,False,False,
+"Port: shaft, bearings, alignment",14000,20.83,False,False,
+"Stbd: alignment · Port: shaft, bearings",14000,20.5,False,False,
+"Stbd: bearings · Port: shaft, alignment",14000,20.28,False,False,
+"Stbd: bearings, alignment · Port: bearings, propeller, alignment",14000,18.15,True,False,0.3611
+"Stbd: bearings, alignment · Port: shaft",14000,19.96,False,False,
+"Stbd: shaft · Port: bearings, alignment",14000,19.96,False,False,
+"Stbd: shaft, alignment · Port: bearings",14000,19.64,False,False,
+"Stbd: shaft, bearings · Port: alignment",14000,19.43,False,False,
+"Stbd: shaft, bearings, alignment",14000,19.12,False,False,
+"Port: shaft, propeller, alignment",14500,21.34,False,False,
+"Stbd: alignment · Port: shaft, propeller",14500,21.0,False,False,
+"Stbd: propeller · Port: shaft, alignment",14500,20.89,False,False,
+"Stbd: propeller, alignment · Port: bearings, propeller, alignment",14500,18.67,True,False,0.3949
+"Stbd: propeller, alignment · Port: shaft",14500,20.56,False,False,
+"Stbd: bearings, propeller, alignment · Port: propeller, alignment",14500,18.19,True,False,0.3681
+"Stbd: shaft · Port: propeller, alignment",14500,20.45,False,False,
+"Stbd: shaft, alignment · Port: propeller",14500,20.12,False,False,
+"Stbd: shaft, propeller · Port: alignment",14500,20.01,False,False,
+"Stbd: shaft, propeller, alignment",14500,19.69,False,False,
+"Stbd: bearings, propeller · Port: bearings, propeller",15000,18.92,False,False,
+"Stbd: alignment · Port: shaft, bearings, alignment",15500,19.07,True,False,0.4267
+"Stbd: bearings, alignment · Port: shaft, alignment",15500,18.57,True,False,0.3984
+"Stbd: shaft, alignment · Port: bearings, alignment",15500,18.28,True,False,0.3823
+"Stbd: shaft, bearings, alignment · Port: alignment",15500,17.84,True,False,0.3572
+"Stbd: alignment · Port: shaft, propeller, alignment",16000,19.54,True,False,0.4574
+"Stbd: propeller, alignment · Port: shaft, alignment",16000,19.12,True,False,0.4341
+"Stbd: bearings · Port: shaft, bearings",16000,19.33,False,False,
+"Stbd: shaft, alignment · Port: propeller, alignment",16000,18.72,True,False,0.4113
+"Stbd: shaft, propeller, alignment · Port: alignment",16000,18.33,True,False,0.3894
+"Stbd: shaft, bearings · Port: bearings",16000,18.52,False,False,
+"Port: shaft, bearings, propeller",16500,20.34,False,False,
+"Stbd: propeller · Port: shaft, bearings",16500,19.91,False,False,
+"Stbd: bearings · Port: shaft, propeller",16500,19.8,False,False,
+"Stbd: bearings, propeller · Port: bearings, propeller, alignment",16500,17.66,False,False,
+"Stbd: bearings, propeller · Port: shaft",16500,19.38,False,False,
+"Stbd: bearings, propeller, alignment · Port: bearings, propeller",16500,17.41,False,False,
+"Stbd: shaft · Port: bearings, propeller",16500,19.48,False,False,
+"Stbd: shaft, propeller · Port: bearings",16500,19.07,False,False,
+"Stbd: shaft, bearings · Port: propeller",16500,18.97,False,False,
+"Stbd: shaft, bearings, propeller",16500,18.57,False,False,
+"Stbd: propeller · Port: shaft, propeller",17000,20.39,False,False,
+"Stbd: shaft, propeller · Port: propeller",17000,19.54,False,False,
+"Stbd: bearings · Port: shaft, bearings, alignment",17500,18.01,False,False,
+"Stbd: bearings, alignment · Port: shaft, bearings",17500,17.75,False,False,
+"Stbd: shaft, bearings · Port: bearings, alignment",17500,17.32,False,False,
+"Stbd: shaft, bearings, alignment · Port: bearings",17500,17.08,False,False,
+"Port: shaft, bearings, propeller, alignment",18000,18.92,False,False,
+"Stbd: alignment · Port: shaft, bearings, propeller",18000,18.62,False,False,
+"Stbd: propeller · Port: shaft, bearings, alignment",18000,18.52,False,False,
+"Stbd: propeller, alignment · Port: shaft, bearings",18000,18.24,False,False,
+"Stbd: bearings · Port: shaft, propeller, alignment",18000,18.42,False,False,
+"Stbd: bearings, alignment · Port: shaft, propeller",18000,18.15,False,False,
+"Stbd: bearings, propeller · Port: shaft, alignment",18000,18.06,False,False,
+"Stbd: bearings, propeller, alignment · Port: shaft",18000,17.79,False,False,
+"Stbd: shaft · Port: bearings, propeller, alignment",18000,18.15,False,False,
+Stbd: shaft · Port: shaft,18000,19.96,False,False,
+"Stbd: shaft, alignment · Port: bearings, propeller",18000,17.88,False,False,
+"Stbd: shaft, propeller · Port: bearings, alignment",18000,17.79,False,False,
+"Stbd: shaft, propeller, alignment · Port: bearings",18000,17.54,False,False,
+"Stbd: shaft, bearings · Port: propeller, alignment",18000,17.71,False,False,
+"Stbd: shaft, bearings, alignment · Port: propeller",18000,17.45,False,False,
+"Stbd: shaft, bearings, propeller · Port: alignment",18000,17.37,False,False,
+"Stbd: shaft, bearings, propeller, alignment",18000,17.12,False,False,
+"Stbd: propeller · Port: shaft, propeller, alignment",18500,18.97,False,False,
+"Stbd: propeller, alignment · Port: shaft, propeller",18500,18.67,False,False,
+"Stbd: shaft, propeller · Port: propeller, alignment",18500,18.19,False,False,
+"Stbd: shaft, propeller, alignment · Port: propeller",18500,17.93,False,False,
+"Stbd: bearings, alignment · Port: shaft, bearings, alignment",19000,16.64,True,False,0.3214
+"Stbd: alignment · Port: shaft, bearings, propeller, alignment",19500,17.41,True,False,0.3693
+"Stbd: propeller, alignment · Port: shaft, bearings, alignment",19500,17.08,True,False,0.3506
+"Stbd: bearings, alignment · Port: shaft, propeller, alignment",19500,16.99,True,False,0.346
+"Stbd: bearings, propeller, alignment · Port: shaft, alignment",19500,16.68,True,False,0.3281
+"Stbd: shaft · Port: shaft, alignment",19500,18.57,False,False,
+"Stbd: shaft, alignment · Port: bearings, propeller, alignment",19500,16.76,True,False,0.3326
+"Stbd: shaft, alignment · Port: shaft",19500,18.28,False,False,
+"Stbd: shaft, propeller, alignment · Port: bearings, alignment",19500,16.45,True,False,0.3155
+"Stbd: shaft, bearings, alignment · Port: propeller, alignment",19500,16.38,True,False,0.3115
+"Stbd: shaft, bearings, propeller, alignment · Port: alignment",19500,16.11,True,False,0.2959
+"Stbd: propeller, alignment · Port: shaft, propeller, alignment",20000,17.45,True,False,0.3762
+"Stbd: bearings · Port: shaft, bearings, propeller",20000,17.62,False,False,
+"Stbd: bearings, propeller · Port: shaft, bearings",20000,17.28,False,False,
+"Stbd: shaft, propeller, alignment · Port: propeller, alignment",20000,16.8,True,False,0.3393
+"Stbd: shaft, bearings · Port: bearings, propeller",20000,16.95,False,False,
+"Stbd: shaft, bearings, propeller · Port: bearings",20000,16.64,False,False,
+"Stbd: propeller · Port: shaft, bearings, propeller",20500,18.1,False,False,
+"Stbd: bearings, propeller · Port: shaft, propeller",20500,17.66,False,False,
+"Stbd: shaft, propeller · Port: bearings, propeller",20500,17.41,False,False,
+"Stbd: shaft, bearings, propeller · Port: propeller",20500,16.99,False,False,
+"Stbd: shaft, alignment · Port: shaft, alignment",21000,17.12,True,False,0.3666
+"Stbd: bearings · Port: shaft, bearings, propeller, alignment",21500,16.52,False,False,
+"Stbd: bearings, alignment · Port: shaft, bearings, propeller",21500,16.31,False,False,
+"Stbd: bearings, propeller · Port: shaft, bearings, alignment",21500,16.24,False,False,
+"Stbd: bearings, propeller, alignment · Port: shaft, bearings",21500,16.04,False,False,
+"Stbd: shaft · Port: shaft, bearings",21500,17.75,False,False,
+"Stbd: shaft, bearings · Port: bearings, propeller, alignment",21500,15.97,False,False,
+"Stbd: shaft, bearings · Port: shaft",21500,17.32,False,False,
+"Stbd: shaft, bearings, alignment · Port: bearings, propeller",21500,15.78,False,False,
+"Stbd: shaft, bearings, propeller · Port: bearings, alignment",21500,15.71,False,False,
+"Stbd: shaft, bearings, propeller, alignment · Port: bearings",21500,15.53,False,False,
+"Stbd: propeller · Port: shaft, bearings, propeller, alignment",22000,16.95,False,False,
+"Stbd: propeller, alignment · Port: shaft, bearings, propeller",22000,16.72,False,False,
+"Stbd: bearings, propeller · Port: shaft, propeller, alignment",22000,16.56,False,False,
+"Stbd: bearings, propeller, alignment · Port: shaft, propeller",22000,16.35,False,False,
+"Stbd: shaft · Port: shaft, propeller",22000,18.15,False,False,
+"Stbd: shaft, propeller · Port: bearings, propeller, alignment",22000,16.35,False,False,
+"Stbd: shaft, propeller · Port: shaft",22000,17.79,False,False,
+"Stbd: shaft, propeller, alignment · Port: bearings, propeller",22000,16.14,False,False,
+"Stbd: shaft, bearings, propeller · Port: propeller, alignment",22000,16.0,False,False,
+"Stbd: shaft, bearings, propeller, alignment · Port: propeller",22000,15.81,False,False,
+"Stbd: bearings, alignment · Port: shaft, bearings, propeller, alignment",23000,15.44,True,False,0.29
+"Stbd: bearings, propeller, alignment · Port: shaft, bearings, alignment",23000,15.2,True,False,0.2768
+"Stbd: shaft · Port: shaft, bearings, alignment",23000,16.64,False,False,
+"Stbd: shaft, alignment · Port: shaft, bearings",23000,16.42,False,False,
+"Stbd: shaft, bearings · Port: shaft, alignment",23000,16.28,False,False,
+"Stbd: shaft, bearings, alignment · Port: bearings, propeller, alignment",23000,14.99,True,False,0.2646
+"Stbd: shaft, bearings, alignment · Port: shaft",23000,16.07,False,False,
+"Stbd: propeller, alignment · Port: shaft, bearings, propeller, alignment",23500,15.78,True,False,0.3137
+"Stbd: bearings, propeller, alignment · Port: shaft, propeller, alignment",23500,15.47,True,False,0.2962
+"Stbd: shaft · Port: shaft, propeller, alignment",23500,16.99,False,False,
+"Stbd: shaft, alignment · Port: shaft, propeller",23500,16.76,False,False,
+"Stbd: shaft, propeller · Port: shaft, alignment",23500,16.68,False,False,
+"Stbd: shaft, propeller, alignment · Port: bearings, propeller, alignment",23500,15.29,True,False,0.2862
+"Stbd: shaft, propeller, alignment · Port: shaft",23500,16.45,False,False,
+"Stbd: shaft, bearings, propeller, alignment · Port: propeller, alignment",23500,15.01,True,False,0.2706
+"Stbd: bearings, propeller · Port: shaft, bearings, propeller",24000,15.94,False,False,
+"Stbd: shaft, bearings, propeller · Port: bearings, propeller",24000,15.44,False,False,
+"Stbd: shaft, alignment · Port: shaft, bearings, alignment",24500,15.53,True,False,0.3087
+"Stbd: shaft, bearings, alignment · Port: shaft, alignment",24500,15.23,True,False,0.2921
+"Stbd: shaft, alignment · Port: shaft, propeller, alignment",25000,15.81,True,False,0.3291
+"Stbd: shaft, propeller, alignment · Port: shaft, alignment",25000,15.56,True,False,0.315
+"Stbd: shaft, bearings · Port: shaft, bearings",25000,15.68,False,False,
+"Stbd: bearings, propeller · Port: shaft, bearings, propeller, alignment",25500,15.12,False,False,
+"Stbd: bearings, propeller, alignment · Port: shaft, bearings, propeller",25500,14.96,False,False,
+"Stbd: shaft · Port: shaft, bearings, propeller",25500,16.31,False,False,
+"Stbd: shaft, propeller · Port: shaft, bearings",25500,16.04,False,False,
+"Stbd: shaft, bearings · Port: shaft, propeller",25500,15.97,False,False,
+"Stbd: shaft, bearings, propeller · Port: bearings, propeller, alignment",25500,14.73,False,False,
+"Stbd: shaft, bearings, propeller · Port: shaft",25500,15.71,False,False,
+"Stbd: shaft, bearings, propeller, alignment · Port: bearings, propeller",25500,14.6,False,False,
+"Stbd: shaft, propeller · Port: shaft, propeller",26000,16.35,False,False,
+"Stbd: shaft, bearings · Port: shaft, bearings, alignment",26500,14.91,False,False,
+"Stbd: shaft, bearings, alignment · Port: shaft, bearings",26500,14.77,False,False,
+"Stbd: bearings, propeller, alignment · Port: shaft, bearings, propeller, alignment",27000,14.37,True,False,0.2664
+"Stbd: shaft · Port: shaft, bearings, propeller, alignment",27000,15.44,False,False,
+"Stbd: shaft, alignment · Port: shaft, bearings, propeller",27000,15.26,False,False,
+"Stbd: shaft, propeller · Port: shaft, bearings, alignment",27000,15.2,False,False,
+"Stbd: shaft, propeller, alignment · Port: shaft, bearings",27000,15.04,False,False,
+"Stbd: shaft, bearings · Port: shaft, propeller, alignment",27000,15.15,False,False,
+"Stbd: shaft, bearings, alignment · Port: shaft, propeller",27000,14.99,False,False,
+"Stbd: shaft, bearings, propeller · Port: shaft, alignment",27000,14.94,False,False,
+"Stbd: shaft, bearings, propeller, alignment · Port: shaft",27000,14.8,False,False,
+"Stbd: shaft, propeller · Port: shaft, propeller, alignment",27500,15.47,False,False,
+"Stbd: shaft, propeller, alignment · Port: shaft, propeller",27500,15.29,False,False,
+"Stbd: shaft, bearings, alignment · Port: shaft, bearings, alignment",28000,14.23,True,False,0.2673
+"Stbd: shaft, alignment · Port: shaft, bearings, propeller, alignment",28500,14.6,True,False,0.2926
+"Stbd: shaft, propeller, alignment · Port: shaft, bearings, alignment",28500,14.43,True,False,0.2834
+"Stbd: shaft, bearings, alignment · Port: shaft, propeller, alignment",28500,14.39,True,False,0.2812
+"Stbd: shaft, bearings, propeller, alignment · Port: shaft, alignment",28500,14.24,True,False,0.2728
+"Stbd: shaft, propeller, alignment · Port: shaft, propeller, alignment",29000,14.62,True,False,0.2984
+"Stbd: shaft, bearings · Port: shaft, bearings, propeller",29000,14.7,False,False,
+"Stbd: shaft, bearings, propeller · Port: shaft, bearings",29000,14.53,False,False,
+"Stbd: shaft, propeller · Port: shaft, bearings, propeller",29500,14.96,False,False,
+"Stbd: shaft, bearings, propeller · Port: shaft, propeller",29500,14.73,False,False,
+"Stbd: shaft, bearings · Port: shaft, bearings, propeller, alignment",30500,14.17,False,False,
+"Stbd: shaft, bearings, alignment · Port: shaft, bearings, propeller",30500,14.08,False,False,
+"Stbd: shaft, bearings, propeller · Port: shaft, bearings, alignment",30500,14.05,False,False,
+"Stbd: shaft, bearings, propeller, alignment · Port: shaft, bearings",30500,13.96,False,False,
+"Stbd: shaft, propeller · Port: shaft, bearings, propeller, alignment",31000,14.37,False,False,
+"Stbd: shaft, propeller, alignment · Port: shaft, bearings, propeller",31000,14.26,False,False,
+"Stbd: shaft, bearings, propeller · Port: shaft, propeller, alignment",31000,14.19,False,False,
+"Stbd: shaft, bearings, propeller, alignment · Port: shaft, propeller",31000,14.09,False,False,
+"Stbd: shaft, bearings, alignment · Port: shaft, bearings, propeller, alignment",32000,13.73,True,False,0.2759
+"Stbd: shaft, propeller, alignment · Port: shaft, bearings, propeller, alignment",32500,13.85,True,False,0.2872
+"Stbd: shaft, bearings, propeller, alignment · Port: shaft, propeller, alignment",32500,13.74,True,False,0.281
+"Stbd: shaft, bearings, propeller · Port: shaft, bearings, propeller",33000,13.92,False,False,
+"Stbd: shaft, bearings, propeller · Port: shaft, bearings, propeller, alignment",34500,13.64,False,False,
+"Stbd: shaft, bearings, propeller, alignment · Port: shaft, bearings, propeller",34500,13.6,False,False,

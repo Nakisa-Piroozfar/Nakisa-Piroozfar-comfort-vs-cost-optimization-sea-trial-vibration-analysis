@@ -1,0 +1,104 @@
+{
+  "plans": 256,
+  "allowed": 64,
+  "pareto": 10,
+  "excess_before": 30.1,
+  "excess_after": 14.1,
+  "reduction_pct": 53,
+  "over_before": 18,
+  "over_after": 14,
+  "over_all_repairs": 14,
+  "excess_all_repairs": 13.5,
+  "chosen_plan": "Stbd: shaft, bearings, propeller, alignment \u00b7 Port: bearings, propeller, alignment",
+  "chosen_cost": 27000,
+  "front": [
+    {
+      "plan": "Stbd: alignment \u00b7 Port: alignment",
+      "cost": 3000,
+      "excess": 25.94
+    },
+    {
+      "plan": "Stbd: bearings, alignment \u00b7 Port: alignment",
+      "cost": 6500,
+      "excess": 22.5
+    },
+    {
+      "plan": "Stbd: bearings, alignment \u00b7 Port: bearings, alignment",
+      "cost": 10000,
+      "excess": 19.96
+    },
+    {
+      "plan": "Stbd: bearings, propeller, alignment \u00b7 Port: bearings, alignment",
+      "cost": 14000,
+      "excess": 17.79
+    },
+    {
+      "plan": "Stbd: bearings, propeller, alignment \u00b7 Port: bearings, propeller, alignment",
+      "cost": 18000,
+      "excess": 16.35
+    },
+    {
+      "plan": "Stbd: shaft, bearings, alignment \u00b7 Port: bearings, alignment",
+      "cost": 19000,
+      "excess": 16.07
+    },
+    {
+      "plan": "Stbd: shaft, bearings, propeller, alignment \u00b7 Port: bearings, alignment",
+      "cost": 23000,
+      "excess": 14.8
+    },
+    {
+      "plan": "Stbd: shaft, bearings, propeller, alignment \u00b7 Port: bearings, propeller, alignment",
+      "cost": 27000,
+      "excess": 14.09
+    },
+    {
+      "plan": "Stbd: shaft, bearings, propeller, alignment \u00b7 Port: shaft, bearings, alignment",
+      "cost": 32000,
+      "excess": 13.66
+    },
+    {
+      "plan": "Stbd: shaft, bearings, propeller, alignment \u00b7 Port: shaft, bearings, propeller, alignment",
+      "cost": 36000,
+      "excess": 13.52
+    }
+  ],
+  "sensitivity": [
+    {
+      "weights": [
+        0.9,
+        0.1
+      ],
+      "plan": "Stbd: shaft, bearings, propeller, alignment \u00b7 Port: shaft, bearings, alignment",
+      "cost": 32000,
+      "excess": 13.66
+    },
+    {
+      "weights": [
+        0.7,
+        0.3
+      ],
+      "plan": "Stbd: shaft, bearings, propeller, alignment \u00b7 Port: bearings, propeller, alignment",
+      "cost": 27000,
+      "excess": 14.09
+    },
+    {
+      "weights": [
+        0.5,
+        0.5
+      ],
+      "plan": "Stbd: bearings, propeller, alignment \u00b7 Port: bearings, alignment",
+      "cost": 14000,
+      "excess": 17.79
+    },
+    {
+      "weights": [
+        0.3,
+        0.7
+      ],
+      "plan": "Stbd: bearings, alignment \u00b7 Port: alignment",
+      "cost": 6500,
+      "excess": 22.5
+    }
+  ]
+}

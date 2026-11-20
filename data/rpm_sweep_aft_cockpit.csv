@@ -1,0 +1,11 @@
+rpm,vertical_mm_s,transversal_mm_s,longitudinal_mm_s,main_peak_source,main_peak_mm_s,main_peak_axis
+550,0.51,0.26,0.19,Engine ignition,0.21,vertical
+800,0.74,0.24,0.22,Engine / joint,0.46,vertical
+1000,2.85,0.39,0.32,Engine / joint,2.11,vertical
+1200,2.64,0.53,0.39,Engine / joint,1.63,vertical
+1400,2.31,0.5,0.64,Engine / joint,1.07,vertical
+1600,2.95,2.94,0.9,Shaft 1x,2.35,transversal
+1800,3.06,5.75,0.99,Shaft 1x,4.44,transversal
+2000,3.44,4.55,0.86,Shaft 1x,3.38,transversal
+2200,4.5,4.24,1.27,Shaft 1x,3.26,transversal
+2420,6.76,3.27,1.79,Shaft 1x,2.85,vertical

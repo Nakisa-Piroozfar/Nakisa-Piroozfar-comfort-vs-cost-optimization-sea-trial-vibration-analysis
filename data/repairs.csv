@@ -1,0 +1,5 @@
+repair,description,share_of_shaft_vibration_removed,cost_eur_per_line
+Shaft,Shaft straightness check and correction,0.4,9000
+Bearings,Stern-tube and bracket bearings + seal renewal,0.25,3500
+Propeller,"Propeller cleaning, reconditioning and balancing",0.2,4000
+Alignment,Shaft-line alignment,0.15,1500
